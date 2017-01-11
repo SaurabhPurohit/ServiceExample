@@ -1,0 +1,7 @@
+#Wed Jan 11 17:33:03 IST 2017
+base.0=/home/ln-300/Desktop/Meet Parabiya/ServiceExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e3dd5f2d438ae63aa4b007052f11b5a8c281517c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/ln-300/Desktop/Meet Parabiya/ServiceExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ae9e584eb51a9711a2bb3d2e39714ad1846218cc/classes.dex
+base.1=/home/ln-300/Desktop/Meet Parabiya/ServiceExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ae9e584eb51a9711a2bb3d2e39714ad1846218cc
+file.0=/home/ln-300/Desktop/Meet Parabiya/ServiceExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e3dd5f2d438ae63aa4b007052f11b5a8c281517c/classes.dex
